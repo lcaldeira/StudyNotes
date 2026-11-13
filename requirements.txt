@@ -4,6 +4,7 @@ scipy
 matplotlib
 
 ipykernel
+notebook
 nbformat
 nbconvert
 latex
